@@ -1,5 +1,5 @@
 # NEOE-IOT-Kit-7
-Arduino-Sketch-Sammlung für das NEOE-IOT-Kit-1: *SmartHome IOT digitaler Raumluftsensor. MQ-135, NodeMCU, Arduino, Breadboard.*.
+Arduino-Sketch-Sammlung für das NEOE-IOT-Kit-1: *SmartHome IOT digitaler Raumluftsensor. MQ-135, NodeMCU, Arduino, Breadboard.*
 
 Siehe: https://www.neoe.io/products/smarthome-iot-bausatz-digitaler-raumluftsensor-mq-135-nodemcu-arduino-breadbord
 
